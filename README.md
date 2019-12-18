@@ -10,8 +10,8 @@
 * css样式
 * flask基本知识和运用
 * mysql数据库与pycharm的连接
-[SVG动画](http://lzqqqqq.gitee.io/1svg_animation)
-[Jekyll](https://lzqqqqq.gitee.io/jekyll-theme-basically-basic)
+* [SVG动画](http://lzqqqqq.gitee.io/1svg_animation)
+* [Jekyll](https://lzqqqqq.gitee.io/jekyll-theme-basically-basic)
 ## 期末作业项目展望
 * 能完成期末项目不要求分数很高
 * 学到对自己有用的东西
